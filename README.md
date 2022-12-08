@@ -1,8 +1,3 @@
-# demo-cchat
-This is the source code for real time chat app's tutorial on youtube
-1-server side is complete, just unzip and use
-2-create you react app, extract the cchat.zip
-3-copy and replace the src & public folder in your react app with cchat extracted data. 
+check it out on : <a target="_blank" href="https://62bef7391e171f68319c061e--imaginative-crepe-8c45bb.netlify.app/" > NETLIFY </a>
 
-
-if you have any suggestion or upgrade feel free to do so.
+Its a simple chat application using firebase for authentication as well as database.
